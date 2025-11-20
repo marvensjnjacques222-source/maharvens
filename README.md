@@ -6,5 +6,6 @@
 - [x] Add a view for the back side of the flashcard to display the answer
 - [x] Build in logic to show the answer side when the card is tapped
 - [x] Push code to GitHub9)
-- [ ] 
-![RunningDevices-mahavens2025-11-2012-43-58-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/dc15fd24-3059-4635-8ac0-626298ffe8e8)
+- [ ]
+   ![ScreenRecording2025-11-20125750-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/9a403c13-5947-41cc-a971-781ce8c9d650)
+   )
